@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sharevoice",
+      "sha256_cert_fingerprints": [
+        "1E:A9:6C:A4:23:69:09:27:76:24:68:E9:ED:DF:28:D1:3C:DA:3B:E8:2C:66:7B:BB:4D:7A:D9:F7:22:76:C3:95"
+      ]
+    }
+  }
+]
